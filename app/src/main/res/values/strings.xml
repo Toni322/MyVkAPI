@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyVkApi</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="showMsg">My Message</string>
+    <integer name="com_vk_sdk_AppId">5602160</integer>
+
+</resources>
